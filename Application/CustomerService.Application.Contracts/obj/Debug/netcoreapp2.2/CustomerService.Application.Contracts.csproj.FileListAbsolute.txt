@@ -1,0 +1,14 @@
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\CustomerService.Application.Contracts.deps.json
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\CustomerService.Application.Contracts.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\CustomerService.Application.Contracts.pdb
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.pdb
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.csprojAssemblyReference.cache
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.AssemblyInfoInputs.cache
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.AssemblyInfo.cs
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.csproj.CopyComplete
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.pdb

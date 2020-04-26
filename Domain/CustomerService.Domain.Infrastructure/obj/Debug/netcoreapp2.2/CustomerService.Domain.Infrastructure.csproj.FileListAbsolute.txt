@@ -1,0 +1,12 @@
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\bin\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.deps.json
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\bin\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\bin\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.csprojAssemblyReference.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.AssemblyInfoInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.AssemblyInfo.cs
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.csproj.CopyComplete
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Infrastructure\obj\Debug\netcoreapp2.2\CustomerService.Domain.Infrastructure.pdb

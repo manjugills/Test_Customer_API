@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\CustomerService.Domain.Infrastructure\CustomerService.Domain.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Domain\CustomerService.Domain.Model\CustomerService.Domain.Model.csproj" />
+    <ProjectReference Include="..\CustomerService.Application.Contracts\CustomerService.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.deps.json
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\bin\Debug\netcoreapp2.2\CustomerService.Domain.Model.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\obj\Debug\netcoreapp2.2\CustomerService.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\obj\Debug\netcoreapp2.2\CustomerService.Domain.Model.AssemblyInfoInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\obj\Debug\netcoreapp2.2\CustomerService.Domain.Model.AssemblyInfo.cs
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\obj\Debug\netcoreapp2.2\CustomerService.Domain.Model.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Model\obj\Debug\netcoreapp2.2\CustomerService.Domain.Model.pdb

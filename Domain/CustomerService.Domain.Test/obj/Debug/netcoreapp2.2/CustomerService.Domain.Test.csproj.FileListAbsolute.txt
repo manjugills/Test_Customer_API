@@ -1,0 +1,13 @@
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\CustomerService.Domain.Test.deps.json
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\CustomerService.Domain.Test.runtimeconfig.json
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\CustomerService.Domain.Test.runtimeconfig.dev.json
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\CustomerService.Domain.Test.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\bin\Debug\netcoreapp2.2\CustomerService.Domain.Test.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.csproj.CoreCompileInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.AssemblyInfoInputs.cache
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.AssemblyInfo.cs
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.dll
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.pdb
