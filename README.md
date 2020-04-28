@@ -6,11 +6,11 @@ Put
 Delete
 
 What is  covered
-Architecure for Customer product
-Domain layer: 
+Architecure
+Domain layer:
 Application layer: 
 
-Validation 
+Validation :Most of the validation except PersonalNumber  verification
 Functionality : All features except Delete
 
 Github: Added code to github
