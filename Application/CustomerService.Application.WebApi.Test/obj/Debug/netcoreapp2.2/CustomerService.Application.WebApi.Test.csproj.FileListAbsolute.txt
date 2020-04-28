@@ -14,3 +14,4 @@ C:\Manju\Customer\CustomerService\Application\CustomerService.Application.WebApi
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.WebApi.Test\obj\Debug\netcoreapp2.2\CustomerService.Application.WebApi.Test.csproj.CopyComplete
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.WebApi.Test\obj\Debug\netcoreapp2.2\CustomerService.Application.WebApi.Test.dll
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.WebApi.Test\obj\Debug\netcoreapp2.2\CustomerService.Application.WebApi.Test.pdb
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.WebApi.Test\obj\Debug\netcoreapp2.2\CustomerService.Application.WebApi.Test.csprojAssemblyReference.cache

@@ -32,7 +32,8 @@ namespace CustomerService.Application.WebApi.Commands.V1
             if (customerExisting != null)
             {
                 //throw new BusinessException($"'{model.PersonalNumber}' has already been received earlier", StatusCodes.Status412PreconditionFailed);
-                return new ObjectResult(StatusCodes.Status412PreconditionFailed);
+                return new ConflictObjectResult($"'{model.PersonalNumber}' has already been received earlier" +StatusCodes.Status409Conflict);
+                
             }
 
             var cutomer = await _customerService

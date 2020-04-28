@@ -11,7 +11,7 @@
      
         [Required]
         [RegularExpression("([0-9]+)", ErrorMessage = "Please enter valid Number")]
-        [StringLength(12, ErrorMessage = "Max 12 digits")]
+        [StringLength(12, MinimumLength = 10, ErrorMessage = "Minimum 10 and Maximum 12 digits")]
         public string PersonalNumber { get; set; }
 
         [Required]
@@ -24,11 +24,13 @@
         public string EmailAddress { get; set; }
 
         [Required]
+        [StringLength(15, MinimumLength = 8, ErrorMessage = "Minimum 8 digits maximum 15 digits")]
         [RegularExpression("^\\+[1-9]{1}[0-9]{3,14}$", ErrorMessage = "Please enter valid Mobile")]
         public string PhoneNumber { get; set; }
     }
 
-
+    //ToDo:Need to have one more validation to verify the Pesonalnumber
+    //call the Httpclient extension in utilities
     public class CustomAddressValidation : ValidationAttribute
     {
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
@@ -39,7 +41,7 @@
             {
                 var postalCode = GetPostCode(customerUpdateDto.Address);
 
-                if (string.IsNullOrEmpty(postalCode) || postalCode.Length >5)
+                if (string.IsNullOrEmpty(postalCode) || postalCode.Length >5 || postalCode.Length < 4)
                 {
                     return new ValidationResult($"Postal code cannot be empty and it should be valid");
                 }
@@ -83,7 +85,7 @@
             foreach (var item in list)
             {
                 // if item contains numeric postcode 
-                Regex re = new Regex(@"\d+");
+                Regex re = new Regex(@"^[0-9]*$");
                 Match m = re.Match(item);
                 result = m.Value;
                 if (!string.IsNullOrEmpty(result))

@@ -11,3 +11,4 @@ C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\n
 C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.AssemblyInfo.cs
 C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.dll
 C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.pdb
+C:\Manju\Customer\CustomerService\Domain\CustomerService.Domain.Test\obj\Debug\netcoreapp2.2\CustomerService.Domain.Test.csprojAssemblyReference.cache

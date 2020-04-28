@@ -12,3 +12,7 @@ C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contra
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.csproj.CopyComplete
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.dll
 C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\obj\Debug\netcoreapp2.2\CustomerService.Application.Contracts.pdb
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\System.Net.Http.Formatting.dll
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Manju\Customer\CustomerService\Application\CustomerService.Application.Contracts\bin\Debug\netcoreapp2.2\System.Net.Http.Formatting.xml

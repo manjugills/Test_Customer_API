@@ -42,18 +42,26 @@ namespace CustomerService.Domain.Infrastructure
         }
         public async Task<bool> UpdateAsync(Customer  customer, CancellationToken cancellationToken = default)
         {
-          
-            using (var connection = new SqlConnection(connectionString))
+            try
             {
-                var rowAffected = await connection.ExecuteAsync($"UPDATE [Customer].[dbo].[Customer] SET  Address == '{customer.Address.Trim()}' " +
+                using (var connection = new SqlConnection(connectionString))
+            {
+                var rowAffected = await connection.ExecuteAsync($"UPDATE [Customer].[dbo].[Customer] SET  Address = '{customer.Address.Trim()}' " +
 
-                $", ModifiedBy = 'MANJU',  Email = '{customer.Email.Trim()}', PhoneNumber == '{customer.PhoneNumber.Trim()}'" +
+                $", ModifiedBy = 'MANJU',  Email = '{customer.Email.Trim()}', PhoneNumber = '{customer.PhoneNumber.Trim()}'" +
                 $", ModifiedDate = '{DateTime.UtcNow}'" +
                     $"WHERE PersonalNumber ='{customer.PersonalNumber.Trim()}'");
 
                 return rowAffected > 0;
             }
-           
+            }
+            catch (Exception e)
+            {
+                return false;
+
+
+            }
+
         }
         public async Task<bool> CreateAsync(Customer customer, CancellationToken cancellationToken = default)
         {

@@ -41,7 +41,7 @@ namespace CustomerService.Controllers.V1
         [Consumes(MediaTypeNames.Application.Json)]
         [Produces(MediaTypeNames.Application.Json)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status412PreconditionFailed)]
+        [ProducesResponseType(StatusCodes.Status409Conflict)]
         [ProducesResponseType(typeof(Boolean), StatusCodes.Status200OK)]
         public Task<IActionResult> Post(
             [FromServices] IPostCustomerCommand command,
